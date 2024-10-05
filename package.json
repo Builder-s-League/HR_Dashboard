@@ -1,0 +1,22 @@
+{
+  "name": "hr_dashboard",
+  "version": "1.0.0",
+  "description": "dashbaord for hr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:8080/app/hr-dashboard/page1-670163b407dcda768f370d86/edit"
+  },
+  "keywords": [
+    "dashbaord",
+    "hr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "supabase": "^1.200.3"
+  }
+}
